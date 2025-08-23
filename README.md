@@ -1,17 +1,17 @@
 
-# **Travel One-Word Domain Names**: Daily Updated List of Available Domains
+# **travel One-Word Domain Names**: Daily Updated List of Available Domains
 
-This regularly updated dataset includes the latest available Travel one-word domains.
+This regularly updated dataset includes the latest available travel one-word domains.
 
 [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/travel-oneword-domains.svg?style=flat)]() 
 
 > [!TIP]
-> This dataset provide you 10,000 high quality **Travel one word domains**.
-> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel&utm_content=description.top)**.
+> This dataset provide you 10,000 high quality **travel one word domains**.
+> If you need more, access the complete database of **[one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel&utm_content=description.top)**.
 
 # What's Included in the Dataset
 
-- **Domain Name**: High-quality, single-word Travel domains.
+- **Domain Name**: High-quality, single-word travel domains.
 - **Status**: The current status of the domain: Available, Expired, Expiring, For Sale, ...
 - **Attractiveness**: The attractiveness score of the domain, evaluated by the word type, length, sentiment, popularity and brandability. The higher the score, the more attractive the domain is at eyes of people.
 - **Demand**: The buyer pressure for domain names based on this word. 0 is no demand, and 100 is high probability of being sold soon. Formula: domains sold with this word / total domains tested with this word.
@@ -21,44 +21,44 @@ This regularly updated dataset includes the latest available Travel one-word dom
 - **Registrar**: The registrar of the domain.
 - **Buy Link**: Direct link to purchase the domain.
 
-| domain           | status    | attractiveness | demand | length | created          | expires          | registrar                                                          | sectors                              |
-| ---------------- | --------- | -------------- | ------ | ------ | ---------------- | ---------------- | ------------------------------------------------------------------ | ------------------------------------ |
-| here.ninja       | available | 130            | 92     | 4      |                  |                  |                                                                    | General,Media,Technology,Travel      |
-| away.at          | sold      | 126            | 48     | 4      |                  |                  | Domainers Registrar AG ( https://nic.at/registrar/668 )            | Business,Media,Travel                |
-| weather.cloud    | available | 118            | 92     | 7      |                  |                  |                                                                    | Environment,Media,Travel             |
-| hollywood.so     | available | 118            | 84     | 9      |                  |                  |                                                                    | Entertainment,Media,Travel           |
-| weather.expert   | available | 118            | 92     | 7      |                  |                  |                                                                    | Environment,Media,Travel             |
-| weather.at       | resell    | 118            | 92     | 7      |                  |                  | InterNetX GmbH ( https://nic.at/registrar/80 )                     | Environment,Media,Travel             |
-| weather.online   | available | 118            | 92     | 7      |                  |                  |                                                                    | Environment,Media,Travel             |
-| hollywood.co     | resell    | 118            | 84     | 9      | 10/08/2023 10:42 | 10/08/2025 10:42 | GoDaddy.com, LLC                                                   | Entertainment,Media,Travel           |
-| hollywood.ninja  | available | 118            | 84     | 9      |                  |                  |                                                                    | Entertainment,Media,Travel           |
-| hollywood.site   | available | 118            | 84     | 9      |                  |                  |                                                                    | Entertainment,Media,Travel           |
-| hollywood.online | available | 118            | 84     | 9      |                  |                  |                                                                    | Entertainment,Media,Travel           |
-| namaste.net      | resell    | 116            | 80     | 7      | 29/08/1996 04:00 | 28/08/2025 04:00 | GoDaddy.com, LLC                                                   | Health and Fitness,Religion,Travel   |
-| namaste.gg       | available | 116            | 80     | 7      |                  |                  |                                                                    | Health and Fitness,Religion,Travel   |
-| travel.app       | expiring  | 115            | 92     | 6      | 18/07/2023 09:52 | 18/07/2025 09:52 | Global Domains International, Inc. DBA DomainCostClub.com          | Hospitality,Transportation,Travel    |
-| outback.space    | available | 114            | 80     | 7      |                  |                  |                                                                    | Geography,Media,Travel               |
-| sublime.cloud    | sold      | 114            | 84     | 7      | 03/07/2016 18:51 | 03/07/2026 18:51 | Gandi SAS                                                          | Arts,Entertainment,Travel            |
-| hut.com          | resell    | 110            | 96     | 3      | 13/05/1995 04:00 | 14/05/2026 04:00 | Dynadot Inc                                                        | Construction,Hospitality,Travel      |
-| adios.store      | available | 110            | 84     | 5      |                  |                  |                                                                    | Arts,Humanities,Travel               |
-| hut.pro          | available | 110            | 96     | 3      |                  |                  |                                                                    | Construction,Hospitality,Travel      |
-| weekend.expert   | available | 110            | 80     | 7      |                  |                  |                                                                    | Entertainment,Hospitality,Travel     |
-| weekend.at       | available | 110            | 80     | 7      |                  |                  |                                                                    | Entertainment,Hospitality,Travel     |
-| trip.cloud       | resell    | 110            | 84     | 4      | 23/02/2016 05:02 | 23/02/2026 05:02 | Name.com, Inc.                                                     | Entertainment,Media,Travel           |
-| hut.online       | available | 110            | 96     | 3      |                  |                  |                                                                    | Construction,Hospitality,Travel      |
-| weekend.online   | available | 110            | 80     | 7      |                  |                  |                                                                    | Entertainment,Hospitality,Travel     |
-| trip.co          | resell    | 110            | 84     | 4      | 25/02/2010 01:17 | 24/02/2026 23:59 | Hello Internet Corp.                                               | Entertainment,Media,Travel           |
-| adios.at         | available | 110            | 84     | 5      |                  |                  |                                                                    | Arts,Humanities,Travel               |
-| plane.tech       | expiring  | 108            | 92     | 5      | 05/08/2015 16:00 | 05/08/2025 23:59 | CHENGDU WEST DIMENSION DIGITAL TECHNOLOGY CO., LTD.                | Aviation,Transportation,Travel       |
-| remote.ninja     | expired   | 108            | 88     | 6      | 26/04/2024 17:00 | 26/04/2025 17:00 | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság | Business,Technology,Travel           |
-| plane.ninja      | available | 108            | 92     | 5      |                  |                  |                                                                    | Aviation,Transportation,Travel       |
-| afternoon.dev    | available | 106            | 92     | 9      |                  |                  |                                                                    | Food and Beverage,Hospitality,Travel |
+| domain           | status    | attractiveness | demand | length | created | expires | registrar | sectors                               |
+| ---------------- | --------- | -------------- | ------ | ------ | ------- | ------- | --------- | ------------------------------------- |
+| brief.travel     | available | 124            | 19     | 5      |         |         |           | Business,Education,General,Law        |
+| second.travel    | available | 120            | 23     | 6      |         |         |           | General,Mathematics                   |
+| equal.travel     | available | 116            | 19     | 5      |         |         |           | Education,General,Law                 |
+| tenth.travel     | available | 116            | 7      | 5      |         |         |           | Mathematics                           |
+| flat.travel      | available | 116            | 24     | 4      |         |         |           | Construction,Real Estate              |
+| tonic.travel     | available | 114            | 22     | 5      |         |         |           | Health and Fitness,Medicine,Science   |
+| acute.travel     | available | 112            | 9      | 5      |         |         |           | Mathematics,Medicine,Science          |
+| above.travel     | available | 112            | 22     | 5      |         |         |           | Business                              |
+| hotshot.travel   | available | 112            | 14     | 7      |         |         |           | Business,Entertainment,Sports         |
+| abstract.travel  | available | 108            | 29     | 8      |         |         |           | Arts,Humanities,Science               |
+| abiding.travel   | available | 106            | 5      | 7      |         |         |           | General,Religion                      |
+| teen.travel      | available | 104            | 14     | 4      |         |         |           | Education,Entertainment,Healthcare    |
+| captive.travel   | available | 102            | 14     | 7      |         |         |           | Entertainment,Hospitality,Technology  |
+| eight.travel     | available | 102            | 23     | 5      |         |         |           | General,Mathematics                   |
+| absent.travel    | available | 102            | 8      | 6      |         |         |           | Business,Education,Technology         |
+| eighth.travel    | available | 100            | 6      | 6      |         |         |           | Mathematics                           |
+| crack.travel     | available | 100            | 20     | 5      |         |         |           | Sports                                |
+| whiz.travel      | available | 100            | 12     | 4      |         |         |           | Business,Education,Technology         |
+| sixth.travel     | available | 100            | 8      | 5      |         |         |           | Mathematics                           |
+| ninth.travel     | available | 100            | 9      | 5      |         |         |           | Mathematics                           |
+| abrupt.travel    | available | 100            | 3      | 6      |         |         |           | Medicine,Science                      |
+| adjunct.travel   | available | 100            | 5      | 7      |         |         |           | Education                             |
+| remove.travel    | available | 100            | 13     | 6      |         |         |           | Construction,Manufacturing,Technology |
+| third.travel     | available | 100            | 16     | 5      |         |         |           | Mathematics                           |
+| whizz.travel     | available | 98             | 11     | 5      |         |         |           | Business,Education,Technology         |
+| forgiving.travel | available | 96             | 3      | 9      |         |         |           | Healthcare,Religion                   |
+| alamode.travel   | available | 96             | 12     | 9      |         |         |           | Fashion                               |
+| actual.travel    | available | 96             | 22     | 6      |         |         |           | Real Estate,Retail,Technology         |
+| doable.travel    | available | 96             | 9      | 6      |         |         |           | Business,Education,Technology         |
+| abject.travel    | available | 94             | 7      | 6      |         |         |           | Humanities                            |
 
-# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel&utm_content=description.bottom)
+# All One word domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel&utm_content=description.bottom)
 
 Search, filter and download the full database of one word domains.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel&utm_content=description.image)
 
 Every day, we curate the finest quality brandable domains that are not been buyed yet.
 
