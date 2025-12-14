@@ -1,62 +1,62 @@
 
-# List of .TRAVEL One Word Domain Names (7,611)
+# List of Travel One Word Domain Names (24,055)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/travel-oneword-domains.svg?style=flat)]() [![7,611 .TRAVEL one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-7%2C611-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Travel-oneword-domains.svg?style=flat)]() [![24,055 Travel one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-24%2C055-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential .TRAVEL one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential Travel one-word domains still available to buy.
 
-This dataset contains 7,611 .TRAVEL one word domains with availability, attractiveness and demand scores.
+This dataset contains 1,000 Travel one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [.TRAVEL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.top) (7,611) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [Travel one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.top) (24,055) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.csv"><b>⬇️ CSV (7.61K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.json"><b>⬇️ JSON (7.61K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.61K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
-| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaron.travel      | available | 88       | 28%    | 5      |           |         |         |
-| abactinal.travel  | available | 50       | 1%     | 9      |           |         |         |
-| abaft.travel      | available | 43       | 2%     | 5      |           |         |         |
-| abandoned.travel  | available | 58       | 7%     | 9      |           |         |         |
-| abashed.travel    | available | 60       | 2%     | 7      |           |         |         |
-| abasic.travel     | available | 54       | 2%     | 6      |           |         |         |
-| abatable.travel   | available | 54       | 1%     | 8      |           |         |         |
-| abatic.travel     | available | 54       | 2%     | 6      |           |         |         |
-| abaxial.travel    | available | 54       | 2%     | 7      |           |         |         |
-| abbatial.travel   | available | 50       | 1%     | 8      |           |         |         |
-| abdicable.travel  | available | 50       | 1%     | 9      |           |         |         |
-| abdominal.travel  | available | 82       | 1%     | 9      |           |         |         |
-| abdominous.travel | available | 56       | 1%     | 10     |           |         |         |
-| abducens.travel   | available | 54       | 1%     | 8      |           |         |         |
-| abducent.travel   | available | 68       | 1%     | 8      |           |         |         |
-| abducting.travel  | available | 50       | 1%     | 9      |           |         |         |
-| abenaki.travel    | available | 82       | 3%     | 7      |           |         |         |
-| aberdonian.travel | available | 68       | 1%     | 10     |           |         |         |
-| aberrant.travel   | available | 74       | 7%     | 8      |           |         |         |
-| abeyant.travel    | available | 56       | 2%     | 7      |           |         |         |
-| abhorrent.travel  | available | 54       | 1%     | 9      |           |         |         |
-| abide.travel      | available | 94       | 15%    | 5      |           |         |         |
-| abiding.travel    | available | 106      | 5%     | 7      |           |         |         |
-| abient.travel     | available | 54       | 1%     | 6      |           |         |         |
-| ability.travel    | available | 92       | 16%    | 7      |           |         |         |
-| abject.travel     | available | 94       | 8%     | 6      |           |         |         |
-| abkhas.travel     | available | 68       | 1%     | 6      |           |         |         |
-| abkhasian.travel  | available | 78       | 1%     | 9      |           |         |         |
-| abkhaz.travel     | available | 82       | 2%     | 6      |           |         |         |
-| abkhazian.travel  | available | 78       | 1%     | 9      |           |         |         |
+| Domain              | Status    | Attract. | Demand | Length | Registrar                                    | Created          | Expires          |
+| ------------------- | --------- | -------- | ------ | ------ | -------------------------------------------- | ---------------- | ---------------- |
+| travel.coffee       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.college      | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.com          | sold      | 115      | 29%    | 6      | GoDaddy.com, LLC                             | 21/09/1992 04:00 | 20/09/2026 04:00 |
+| travel.community    | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.company      | sold      | 115      | 29%    | 6      | Name.com, Inc.                               | 21/09/2023 20:21 | 21/09/2026 20:21 |
+| travel.computer     | resell    | 115      | 29%    | 6      | Sav.com, LLC                                 | 07/06/2024 19:13 | 07/06/2026 19:13 |
+| travel.condos       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.construction | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.consulting   | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.contractors  | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.cool         | resell    | 115      | 29%    | 6      | Sav.com, LLC                                 | 13/08/2015 21:53 | 13/08/2026 21:53 |
+| travel.coupons      | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.credit       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.creditcard   | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.cricket      | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.cruises      | resell    | 115      | 29%    | 6      | Spaceship, Inc.                              | 09/09/2015 16:00 | 09/09/2026 16:00 |
+| travel.cyou         | resell    | 115      | 29%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd | 17/10/2025 00:06 | 17/10/2026 23:59 |
+| travel.dad          | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.dance        | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.dating       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.day          | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.deal         | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.dealer       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.degree       | available | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.delivery     | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.democrat     | available | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.design       | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.dev          | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.diamonds     | premium   | 115      | 29%    | 6      |                                              |                  |                  |
+| travel.diet         | sold      | 115      | 29%    | 6      | 1API GmbH                                    | 25/11/2014 16:00 | 25/11/2026 23:59 |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.csv"><b>⬇️ CSV (7.61K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.json"><b>⬇️ JSON (7.61K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.61K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.csv"><b>⬇️ CSV (1K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.json"><b>⬇️ JSON (1K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.06K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -645,11 +645,11 @@ If you want to search & filters the complete database of [.TRAVEL one word domai
 | Travel             | 24,055       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,271       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.image)
         
