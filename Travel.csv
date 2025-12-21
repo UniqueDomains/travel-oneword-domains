@@ -1,6 +1,6 @@
 id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 30f0f938-947d-4adf-98f9-bb47e388b0ef,travel.ac,sold,115,29,6,"NameCheap, Inc.",01/09/2017 08:31,01/09/2026 08:31
-c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,sold,115,29,6,"GoDaddy.com, LLC",19/03/2014 19:08,19/03/2026 19:08
+c0840bcb-8e76-446b-94e4-9c54b06884f2,travel.academy,resell,115,29,6,"GoDaddy.com, LLC",19/03/2014 19:08,19/03/2026 19:08
 610fe34f-402a-4d41-90da-2642f62d2550,travel.accountant,premium,115,29,6,,,
 94c54146-744d-4c33-875d-402451c13a68,travel.accountants,premium,115,29,6,,,
 7cf9eb3b-ce92-43e4-816a-8f4bc05b0b3b,travel.actor,available,115,29,6,,,
@@ -46,7 +46,7 @@ b0e4b832-89bc-4457-83c1-1cf7af97866d,travel.cam,sold,115,29,6,Cam Connecting SAR
 3c096967-ee58-44df-acdf-3a01c9a07584,travel.car,available,115,29,6,,,
 677b7e2f-5078-4142-9164-121836ef3f0a,travel.careers,premium,115,29,6,,,
 a498cdcd-508e-4b20-95b4-3291f094c34e,travel.cars,available,115,29,6,,,
-17180421-4406-4c27-97f6-3a7b62614500,travel.cash,sold,115,29,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2026 18:05
+17180421-4406-4c27-97f6-3a7b62614500,travel.cash,resell,115,29,6,GoDaddy Online Services Cayman Islands Ltd.,30/08/2015 18:05,30/08/2026 18:05
 06b58040-78dd-4e6e-ba5e-76f589e51d26,travel.casino,premium,115,29,6,,,
 4aa6e80f-fd1a-4f18-961f-322fcf32bcde,travel.catering,premium,115,29,6,,,
 274d4f25-39d2-4a51-9234-ef89b92de7f8,travel.cc,resell,115,29,6,"22net, Inc.",12/10/2000 04:00,12/10/2026 04:00
@@ -68,7 +68,7 @@ ee2cac79-ffab-46cb-9ecc-c1036b5194fe,travel.college,premium,115,29,6,,,
 305b3723-b3a7-4dab-99a1-6e2853cdcc94,travel.com,sold,115,29,6,"GoDaddy.com, LLC",21/09/1992 04:00,20/09/2026 04:00
 3b549356-7bb5-4921-a33d-4ec7cd804cfd,travel.community,premium,115,29,6,,,
 9cea334c-9a06-46b6-bfa7-1741867f243b,travel.company,sold,115,29,6,"Name.com, Inc.",21/09/2023 20:21,21/09/2026 20:21
-67b5b7c8-e75f-4363-ab92-2d8e722f2b77,travel.computer,resell,115,29,6,"Sav.com, LLC",07/06/2024 19:13,07/06/2026 19:13
+67b5b7c8-e75f-4363-ab92-2d8e722f2b77,travel.computer,sold,115,29,6,"Sav.com, LLC",07/06/2024 19:13,07/06/2026 19:13
 eadc5694-40de-4831-bc85-5954d83fdcfe,travel.condos,premium,115,29,6,,,
 16c41104-3950-4846-9658-77c57679cbde,travel.construction,premium,115,29,6,,,
 b235c659-18a6-4b84-b2e2-453e3a93806e,travel.consulting,premium,115,29,6,,,
@@ -164,7 +164,8 @@ ff4cd1dc-95bc-4bf1-ae2f-2992a5a0f79b,travel.immo,premium,115,29,6,,,
 05b3494b-1b84-40f5-bd84-bc88983034fd,travel.immobilien,available,115,29,6,,,
 32cf5d79-43a7-4c21-ae7f-aa87c1de4f04,travel.in,expiring,115,29,6,National Informatics Centre,31/12/2004 18:20,31/12/2025 18:20
 e0323beb-f8d5-4b1d-b847-716bd8af48c8,travel.industries,premium,115,29,6,,,
-d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,82,29,6,,,
+d8932d2b-98c7-423f-b21d-e191e6613a43,travel.ing,premium,115,29,6,,,
+4b63ab23-aa8c-494f-885d-b3281df36f48,travel.insure,expiring,115,29,6,1API GmbH,16/01/2024 20:42,16/01/2026 20:42
 f2dad952-cff0-44fa-8ae7-8f656f3d2da1,travel.international,sold,115,29,6,Dynadot Inc,21/06/2015 16:00,21/06/2026 16:00
 180c4304-580c-4272-a845-8a080537831b,travel.investments,premium,115,29,6,,,
 8f8fb22d-b529-4014-9dc7-e48edfc5c31e,travel.io,sold,115,29,6,"Name.com, Inc.",17/05/2024 20:57,17/05/2026 20:57
@@ -193,7 +194,7 @@ fd5df987-4506-4005-8cff-89268dae8f36,travel.locker,premium,115,29,6,,,
 1d7b3056-8eb5-4c44-9469-af4ddb667078,travel.london,premium,115,29,6,,,
 81d181f0-e269-44af-bb38-0af271459578,travel.love,premium,115,29,6,,,
 d5dd25ac-2427-4149-8121-102d8edca709,travel.ltda,premium,115,29,6,,,
-e571313c-46b9-4e3c-94ef-2e33c99b2d9d,travel.luxe,available,115,29,6,,,
+e571313c-46b9-4e3c-94ef-2e33c99b2d9d,travel.luxe,premium,115,29,6,,,
 1ba6fd0f-35c6-4bd2-95b2-3b868a7e609c,travel.maison,premium,115,29,6,,,
 4ac3156e-d260-4e40-9054-3dfd0f141e79,travel.makeup,premium,115,29,6,,,
 79b1ed03-761e-42c8-a7cf-19b90f8894ef,travel.market,premium,115,29,6,,,
@@ -322,7 +323,7 @@ eb0a58cb-b43d-441a-8f56-34d24facd575,travel.vacations,sold,115,29,6,"Name.com, I
 ecbbed13-7249-46be-a96c-07089cad7471,travel.vc,expiring,115,29,6,1API GmbH,26/12/2008 10:01,26/12/2025 10:01
 4fc33658-c958-4b56-9c5c-8d861f001ebd,travel.vegas,premium,115,29,6,,,
 5fc71cf2-4fe8-4eb0-98dd-c149d10f47e0,travel.vet,sold,115,29,6,Mesh Digital Limited,08/09/2020 11:01,08/09/2027 11:01
-13911be6-e6dd-4833-ae64-464a0e837885,travel.viajes,available,115,29,6,,,
+13911be6-e6dd-4833-ae64-464a0e837885,travel.viajes,sold,115,29,6,"GoDaddy.com, LLC",17/12/2025 00:05,17/12/2028 00:05
 9c08750c-e168-42bb-b0fb-7d1a6c0f9b52,travel.video,premium,115,29,6,,,
 16273742-b8fe-43e8-abcf-3db684ba2f7b,travel.villas,premium,115,29,6,,,
 9f1a0eb5-1d21-4222-9351-41e1c7edc9e4,travel.vin,premium,115,29,6,,,
@@ -346,7 +347,7 @@ ecb18ea2-7a87-4757-ae78-41269c35b523,travel.yoga,resell,115,29,6,"GoDaddy.com, L
 4d183b59-4102-44b7-b508-6bab84213cae,travel.you,premium,115,29,6,,,
 204a1212-049d-490c-853f-b07cb84c064e,travel.zip,premium,115,29,6,,,
 99a9484f-1feb-4893-add4-6d5bd037c338,travel.zone,sold,115,29,6,"GoDaddy.com, LLC",21/10/2025 09:12,21/10/2026 09:12
-78da6679-19a0-4058-b072-d32319584df6,tour.academy,expiring,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2025 17:44
+78da6679-19a0-4058-b072-d32319584df6,tour.academy,sold,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2026 17:44
 80fbf380-3e74-404d-b594-ac84150a80f8,tour.accountant,premium,72,26,4,,,
 c21b7897-498d-484d-a719-092faf64b53a,tour.accountants,available,72,26,4,,,
 c0023a25-f623-465e-845f-1c3373d49463,tour.adult,resell,72,26,4,"Name.com, Inc.",09/06/2017 14:29,09/06/2026 14:29
@@ -407,7 +408,7 @@ d70ea985-9524-496b-8d91-d6a55ef7d8f3,tour.clothing,available,72,26,4,,,
 69f5de29-fca9-46eb-aa3a-d53c2ac091cc,tour.college,premium,72,26,4,,,
 ba707aab-0804-47cb-a8b0-46e235e3ba3c,tour.community,sold,72,26,4,Squarespace Domains II LLC,10/09/2020 19:25,10/09/2026 19:25
 cd1bec82-b15e-40cf-a43e-fb6a58e0f33b,tour.company,resell,72,26,4,"Sav.com, LLC",28/08/2019 18:00,28/08/2029 18:00
-1fae6450-b04d-47f6-bb7a-15bbe13c3688,tour.computer,resell,72,26,4,"Sav.com, LLC",08/07/2023 01:28,08/07/2026 01:28
+1fae6450-b04d-47f6-bb7a-15bbe13c3688,tour.computer,sold,72,26,4,"Sav.com, LLC",08/07/2023 01:28,08/07/2026 01:28
 4b7b191c-c1a2-4bdf-ae6f-ee7687eed8ca,tour.condos,premium,72,26,4,,,
 f3e510af-ed60-438b-bfdb-2b2f16cfe03f,tour.construction,available,72,26,4,,,
 07199475-76a3-459b-bcd0-aecfee5be107,tour.consulting,premium,72,26,4,,,
@@ -421,7 +422,7 @@ c53676b1-dbf7-4af6-bb99-1154cd365ba5,tour.cool,premium,72,26,4,,,
 1c096bf4-ccf4-41c4-80f6-5b5c07c3454c,tour.credit,available,72,26,4,,,
 2498333d-ae9b-44f1-a350-5e6b84edf374,tour.creditcard,available,72,26,4,,,
 691be52f-6402-41ad-96d6-871ed233a2f6,tour.cricket,premium,72,26,4,,,
-a8764a18-925e-4f53-8fef-97aeb903796a,tour.cruises,expiring,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2025 17:44
+a8764a18-925e-4f53-8fef-97aeb903796a,tour.cruises,sold,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2026 17:44
 44959caa-cdaa-4bf1-997b-0e95c69bc5cc,tour.cx,resell,72,26,4,West263 International Limited,28/04/2023 00:00,28/04/2026 17:55
 42303a4e-58ae-4bb9-896f-ca8a735fb06f,tour.cyou,premium,72,26,4,,,
 207644ee-19b6-4d80-a1a8-d97b54b63940,tour.dad,premium,72,26,4,,,
@@ -437,9 +438,9 @@ f46ebf5f-c360-4737-a1f8-2af6af263f2f,tour.dental,expired,72,26,4,Porkbun LLC,22/
 b9cc8e67-bc55-45fd-8688-eedf45271a8e,tour.dev,sold,72,26,4,"CloudFlare, Inc.",07/09/2025 11:20,07/09/2026 11:20
 5b169335-39a4-48cb-8ec9-0f8797b3795b,tour.diamonds,available,72,26,4,,,
 200a1591-51a4-4e92-b718-162dc3efab12,tour.diet,available,72,26,4,,,
-1c66d921-2c1c-4fb3-8b87-7bf25a6f0aa3,tour.digital,resell,72,26,4,Porkbun LLC,04/12/2018 14:04,04/12/2026 14:04
+1c66d921-2c1c-4fb3-8b87-7bf25a6f0aa3,tour.digital,sold,72,26,4,Porkbun LLC,04/12/2018 14:04,04/12/2026 14:04
 50752ae1-383f-4fdb-9c22-7080e4beac93,tour.direct,sold,72,26,4,Dynadot Inc,08/12/2020 08:07,08/12/2026 08:07
-ef10d536-0468-4a4d-8b80-1ad240489da9,tour.directory,expired,72,26,4,"Spaceship, Inc.",02/10/2023 15:15,02/10/2025 15:15
+ef10d536-0468-4a4d-8b80-1ad240489da9,tour.directory,premium,72,26,4,,,
 bb49e3dd-e4f2-4044-b1b0-ff93e03c5413,tour.discount,premium,72,26,4,,,
 4975e573-8296-4cde-89d4-f108100a5a09,tour.diy,premium,72,26,4,,,
 b84e6711-ceb0-4f6f-a93a-cdca637f2d50,tour.doctor,expired,72,26,4,Porkbun LLC,22/10/2024 01:41,22/10/2025 01:41
@@ -459,7 +460,7 @@ e5c4dcfa-2df3-4b65-b248-5e4f68a08926,tour.fail,premium,72,26,4,,,
 b885e0a1-2856-4fa4-aa9d-dd388ea8a9a4,tour.family,premium,72,26,4,,,
 0fb8ddf1-9bea-4a54-927d-516fd9e5a18e,tour.fan,premium,72,26,4,,,
 0e28a524-0e15-4661-bfd6-9e422a898424,tour.fans,premium,72,26,4,,,
-979dce04-52bf-4484-b390-be45883f9bcf,tour.farm,expiring,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2025 17:44
+979dce04-52bf-4484-b390-be45883f9bcf,tour.farm,sold,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2026 17:44
 65ca672c-e609-45b0-8ba3-871aed9a00a9,tour.fashion,expired,72,26,4,"Spaceship, Inc.",30/11/2022 10:36,30/11/2025 10:36
 116562c2-3af7-4e52-8dff-5b1df43cc98b,tour.fast,premium,72,26,4,,,
 b633f072-da1c-4ba6-8ed4-76ae37350dfa,tour.film,premium,72,26,4,,,
@@ -497,7 +498,7 @@ a08b36c0-afe3-4a2c-b91c-c77020e63513,tour.green,premium,72,26,4,,,
 2c4b15a2-c960-4e03-97a9-43ddc77cf2cd,tour.guide,premium,72,26,4,,,
 581c5cc2-cdea-47c2-b1b3-b060ee9ad8e9,tour.guitars,premium,72,26,4,,,
 73878a34-ce4f-41aa-930b-6367fbbe26ff,tour.hair,premium,72,26,4,,,
-626eae8b-193f-4e09-a6ca-cbe15cd08194,tour.haus,expiring,72,26,4,Porkbun LLC,18/12/2023 21:19,18/12/2025 21:19
+626eae8b-193f-4e09-a6ca-cbe15cd08194,tour.haus,sold,72,26,4,Porkbun LLC,18/12/2023 21:19,18/12/2026 21:19
 5b5329c5-3427-4e99-aea7-aa862b6d96c0,tour.healthcare,expired,72,26,4,Porkbun LLC,22/10/2024 01:41,22/10/2025 01:41
 446f2ab8-c1c9-409b-9564-fd631bf24df5,tour.help,premium,72,26,4,,,
 a27e9758-5879-40e4-8259-557e133f4697,tour.hiphop,premium,72,26,4,,,
@@ -518,7 +519,7 @@ f2907d34-e357-41ff-a978-678f0e4f3e57,tour.immo,premium,72,26,4,,,
 729a833d-2eb9-424b-9e84-5d216ebb238e,tour.immobilien,available,72,26,4,,,
 1e406ee3-bbcb-4d1a-be3a-3532bc347a8e,tour.inc,premium,72,26,4,,,
 26ec211c-2046-46ab-aef9-f2815cca636f,tour.industries,premium,72,26,4,,,
-3e711b68-028e-4bed-bced-1bc5188be54c,tour.ing,premium,90,26,4,,,
+3e711b68-028e-4bed-bced-1bc5188be54c,tour.ing,premium,72,26,4,,,
 0cebfdde-110c-4263-8a31-2db764ee5b99,tour.institute,expiring,72,26,4,Porkbun LLC,04/01/2025 07:33,04/01/2026 07:33
 b18f0fea-5094-4b78-a64d-d074c35534b5,tour.insure,resell,72,26,4,"Sav.com, LLC - 43",07/10/2025 15:16,07/10/2026 15:16
 9fcea5d1-f9d4-40ac-b68c-0483c88ccc5e,tour.investments,expiring,72,26,4,Porkbun LLC,04/01/2025 07:33,04/01/2026 07:33
@@ -540,6 +541,7 @@ a7d8370e-bffd-4d07-8bb7-76abb33ea6af,tour.law,available,72,26,4,,,
 a8687e93-2223-40e5-86db-68101fbd7a36,tour.lgbt,available,72,26,4,,,
 04c0c130-8333-4478-86cd-32a07cd34629,tour.life,resell,72,26,4,"Chengdu West Dimension Digital Technology Co., Ltd.",03/12/2019 08:31,03/12/2026 08:31
 fe9adf75-bc71-4c23-85d1-19975e32c0d8,tour.lifestyle,premium,72,26,4,,,
+2ca39bb1-5ecc-4560-8772-5231122f6bcb,tour.limited,resell,72,26,4,"GoDaddy.com, LLC",23/07/2016 03:03,23/07/2026 03:03
 8fbf668a-5bd7-4880-8602-4a26582bc73b,tour.limo,sold,72,26,4,Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság,03/12/2025 15:15,03/12/2026 15:15
 d536e87a-9605-4790-a1cd-4308fcc4dce5,tour.live,resell,72,26,4,"Name.com, Inc.",29/06/2016 01:42,29/06/2026 01:42
 873a29db-7d56-479c-8b65-4f6786cddab4,tour.living,premium,72,26,4,,,
@@ -555,7 +557,7 @@ a7d93366-996e-4a04-a970-cee6a5eb32af,tour.london,premium,72,26,4,,,
 368781fc-356e-4f0e-8fd6-98fb9be2bc49,tour.maison,available,72,26,4,,,
 67c8b003-069f-414b-a283-c34f33708872,tour.makeup,premium,72,26,4,,,
 b6fa8a9b-3661-4bbe-bc7a-c6a2fe4f28f5,tour.management,sold,72,26,4,1API GmbH,27/05/2020 10:26,27/05/2026 10:26
-a2414a6c-86e1-48aa-94db-029656ae1d14,tour.marketing,expiring,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2025 17:44
+a2414a6c-86e1-48aa-94db-029656ae1d14,tour.marketing,sold,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2026 17:44
 e4c9e7b3-b8e6-45bb-82f8-2895f40e5eb4,tour.melbourne,expired,72,26,4,Dreamscape Networks International Pte Ltd,05/12/2014 01:45,05/12/2025 01:45
 5ecb9252-e642-4fd2-a1c3-6b143dcd34c4,tour.meme,premium,72,26,4,,,
 0d8557cd-757b-44c7-a662-54c3dbe63b67,tour.memorial,premium,72,26,4,,,
@@ -633,7 +635,7 @@ c086b1da-a19b-4128-af67-91805c572d87,tour.rodeo,premium,72,26,4,,,
 600c27e5-9bed-48b7-a3f9-90753d0536d6,tour.salon,available,72,26,4,,,
 8c34b9b0-7de2-49d5-8e7c-70d1ade0a16d,tour.sarl,available,72,26,4,,,
 c69cd41d-a01c-41c9-a61c-7d936cf85fbd,tour.sbs,premium,72,26,4,,,
-7fd52202-14c6-46a8-af28-d6701bf454ca,tour.school,expiring,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2025 17:44
+7fd52202-14c6-46a8-af28-d6701bf454ca,tour.school,sold,72,26,4,Squarespace Domains II LLC,31/12/2020 17:44,31/12/2026 17:44
 fd440e1b-3263-432b-a478-74401ae45913,tour.schule,expired,72,26,4,Porkbun LLC,22/10/2024 01:41,22/10/2025 01:41
 b4045b98-6f3e-4f58-92a4-5be4de7a9627,tour.science,available,72,26,4,,,
 2336e4e2-7a2c-4b2c-8a97-863af9adaaed,tour.security,available,72,26,4,,,
@@ -997,5 +999,3 @@ d03e9812-6993-4b06-b559-f6f5c14fb7bd,trip.soy,premium,110,32,4,,,
 452b293c-6b6b-45c5-9264-f5cf7e0dfe15,trip.space,premium,110,32,4,,,
 40663ca4-1b5e-4567-9cc9-c679d1384e72,trip.spot,premium,110,32,4,,,
 43912804-1534-4bf8-802b-eeff5d006cdf,trip.srl,available,110,32,4,,,
-4eb48846-fcc1-420b-ab89-0cd625080365,trip.storage,available,110,32,4,,,
-f824800a-153b-4ee0-aa05-9fe63d992827,trip.store,premium,110,32,4,,,
