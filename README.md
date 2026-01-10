@@ -1,62 +1,62 @@
 
-# List of Travel One Word Domain Names (24,290)
+# List of .TRAVEL One Word Domain Names (8,551)
 
-[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/Travel-oneword-domains.svg?style=flat)]() [![24,290 Travel one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-24%2C290-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
+[![Powered By Unique Domains](https://img.shields.io/badge/Powered%20by-Unique%20Domains-black)]() [![GitHub last commit](https://img.shields.io/github/last-commit/UniqueDomains/travel-oneword-domains.svg?style=flat)]() [![8,551 .TRAVEL one word domains were indexed by Unique Domains](https://img.shields.io/badge/Domains%20Count-8%2C551-blue)]() [![Our domains scanner is currently active](https://img.shields.io/badge/Status-Currently%20Scanning-green)]() 
 
-We constantly sweep the web to catalog the highest potential Travel one-word domains still available to buy.
+We constantly sweep the web to catalog the highest potential .TRAVEL one-word domains still available to buy.
 
-This dataset contains 1,000 Travel one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,551 .TRAVEL one word domains with availability, attractiveness and demand scores.
 
-If you want to search & filters the complete database of [Travel one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.top) (24,290) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
+If you want to search & filters the complete database of [.TRAVEL one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.top) (8,551) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
 -----------
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.29K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.csv"><b>⬇️ CSV (8.55K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.json"><b>⬇️ JSON (8.55K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.55K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
-| Domain             | Status    | Attract. | Demand | Length | Registrar                                                 | Created          | Expires          |
-| ------------------ | --------- | -------- | ------ | ------ | --------------------------------------------------------- | ---------------- | ---------------- |
-| travel.ac          | sold      | 115      | 29%    | 6      | NameCheap, Inc.                                           | 01/09/2017 08:31 | 01/09/2026 08:31 |
-| travel.academy     | resell    | 115      | 29%    | 6      | GoDaddy.com, LLC                                          | 19/03/2014 19:08 | 19/03/2026 19:08 |
-| travel.accountant  | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.accountants | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.actor       | available | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.adult       | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.airforce    | available | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.apartments  | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.app         | resell    | 115      | 29%    | 6      | Global Domains International, Inc. DBA DomainCostClub.com | 18/07/2023 09:52 | 18/07/2026 09:52 |
-| travel.army        | sold      | 115      | 29%    | 6      | Spaceship, Inc.                                           | 21/12/2024 15:03 | 21/12/2026 15:03 |
-| travel.art         | resell    | 115      | 29%    | 6      | PDR Ltd. d/b/a PublicDomainRegistry.com                   | 08/08/2025 12:35 | 08/08/2029 23:59 |
-| travel.asia        | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.at          | available | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.attorney    | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.auction     | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.audio       | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.auto        | available | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.autos       | sold      | 115      | 29%    | 6      | Spaceship, Inc.                                           | 23/07/2021 14:35 | 23/07/2026 23:59 |
-| travel.baby        | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.band        | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.bar         | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.bargains    | sold      | 115      | 29%    | 6      | Name.com, Inc.                                            | 21/09/2023 19:48 | 21/09/2026 19:48 |
-| travel.bayern      | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.beauty      | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.beer        | resell    | 115      | 29%    | 6      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn)   | 19/04/2020 08:56 | 19/04/2026 08:56 |
-| travel.berlin      | resell    | 115      | 29%    | 6      |                                                           | 27/11/2015 20:12 | 27/11/2026 20:12 |
-| travel.bid         | resell    | 115      | 29%    | 6      | Porkbun                                                   | 26/07/2019 14:17 | 26/07/2030 14:17 |
-| travel.bingo       | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
-| travel.bio         | resell    | 115      | 29%    | 6      | Xiamen ChinaSource Internet Service Co., Ltd              | 14/08/2025 15:15 | 14/08/2026 15:15 |
-| travel.black       | premium   | 115      | 29%    | 6      |                                                           |                  |                  |
+| Domain            | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
+| ----------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
+| aaron.travel      | available | 88       | 27%    | 5      |           |         |         |
+| abactinal.travel  | available | 50       | 1%     | 9      |           |         |         |
+| abaft.travel      | available | 43       | 2%     | 5      |           |         |         |
+| abandoned.travel  | available | 58       | 7%     | 9      |           |         |         |
+| abashed.travel    | available | 60       | 2%     | 7      |           |         |         |
+| abasic.travel     | available | 54       | 2%     | 6      |           |         |         |
+| abatable.travel   | available | 54       | 1%     | 8      |           |         |         |
+| abatic.travel     | available | 54       | 2%     | 6      |           |         |         |
+| abaxial.travel    | available | 54       | 2%     | 7      |           |         |         |
+| abbatial.travel   | available | 50       | 1%     | 8      |           |         |         |
+| abdicable.travel  | available | 50       | 1%     | 9      |           |         |         |
+| abdominal.travel  | available | 82       | 1%     | 9      |           |         |         |
+| abdominous.travel | available | 56       | 1%     | 10     |           |         |         |
+| abducens.travel   | available | 54       | 1%     | 8      |           |         |         |
+| abducent.travel   | available | 68       | 1%     | 8      |           |         |         |
+| abducting.travel  | available | 50       | 1%     | 9      |           |         |         |
+| abenaki.travel    | available | 82       | 3%     | 7      |           |         |         |
+| aberdonian.travel | available | 68       | 1%     | 10     |           |         |         |
+| aberrant.travel   | available | 74       | 7%     | 8      |           |         |         |
+| abeyant.travel    | available | 56       | 2%     | 7      |           |         |         |
+| abhorrent.travel  | available | 54       | 1%     | 9      |           |         |         |
+| abide.travel      | available | 94       | 15%    | 5      |           |         |         |
+| abiding.travel    | available | 106      | 5%     | 7      |           |         |         |
+| abient.travel     | available | 54       | 1%     | 6      |           |         |         |
+| ability.travel    | available | 92       | 14%    | 7      |           |         |         |
+| abject.travel     | available | 94       | 8%     | 6      |           |         |         |
+| abkhas.travel     | available | 68       | 1%     | 6      |           |         |         |
+| abkhasian.travel  | available | 78       | 1%     | 9      |           |         |         |
+| abkhaz.travel     | available | 82       | 2%     | 6      |           |         |         |
+| abkhazian.travel  | available | 78       | 1%     | 9      |           |         |         |
 
 <p align="center">
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.csv"><b>⬇️ CSV (1K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/Travel.json"><b>⬇️ JSON (1K domains)</b></a> • 
-    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (24.29K)</b></a> • 
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.csv"><b>⬇️ CSV (8.55K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/travel-oneword-domains/blob/main/travel.json"><b>⬇️ JSON (8.55K domains)</b></a> • 
+    <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (8.55K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
 
@@ -88,20 +88,20 @@ If you want to search & filters the complete database of [Travel one word domain
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,936       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 65,053       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,881    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,932       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 65,056       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,598,874    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
 | -------------- | ------------ | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| .AC            | 8,428        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
+| .AC            | 8,430        | [Github](https://github.com/UniqueDomains/ac-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ac-oneword-domains&utm_content=table.link)            |
 | .ACADEMY       | 7,791        | [Github](https://github.com/UniqueDomains/academy-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=academy-oneword-domains&utm_content=table.link)       |
 | .ACCOUNTANT    | 9,873        | [Github](https://github.com/UniqueDomains/accountant-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountant-oneword-domains&utm_content=table.link)    |
 | .ACCOUNTANTS   | 9,765        | [Github](https://github.com/UniqueDomains/accountants-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=accountants-oneword-domains&utm_content=table.link)   |
 | .ACTOR         | 9,695        | [Github](https://github.com/UniqueDomains/actor-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=actor-oneword-domains&utm_content=table.link)         |
 | .ADULT         | 9,740        | [Github](https://github.com/UniqueDomains/adult-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=adult-oneword-domains&utm_content=table.link)         |
-| .AG            | 8,603        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
+| .AG            | 8,600        | [Github](https://github.com/UniqueDomains/ag-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ag-oneword-domains&utm_content=table.link)            |
 | .AGENCY        | 6,948        | [Github](https://github.com/UniqueDomains/agency-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=agency-oneword-domains&utm_content=table.link)        |
 | .AI            | 54,017       | [Github](https://github.com/UniqueDomains/ai-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ai-oneword-domains&utm_content=table.link)            |
 | .AIRFORCE      | 9,849        | [Github](https://github.com/UniqueDomains/airforce-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=airforce-oneword-domains&utm_content=table.link)      |
@@ -150,7 +150,7 @@ If you want to search & filters the complete database of [Travel one word domain
 | .BUILDERS      | 9,204        | [Github](https://github.com/UniqueDomains/builders-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=builders-oneword-domains&utm_content=table.link)      |
 | .BUSINESS      | 8,166        | [Github](https://github.com/UniqueDomains/business-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=business-oneword-domains&utm_content=table.link)      |
 | .BUZZ          | 9,271        | [Github](https://github.com/UniqueDomains/buzz-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=buzz-oneword-domains&utm_content=table.link)          |
-| .BZ            | 8,358        | [Github](https://github.com/UniqueDomains/bz-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=bz-oneword-domains&utm_content=table.link)            |
+| .BZ            | 8,356        | [Github](https://github.com/UniqueDomains/bz-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=bz-oneword-domains&utm_content=table.link)            |
 | .CA            | 4,608        | [Github](https://github.com/UniqueDomains/ca-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ca-oneword-domains&utm_content=table.link)            |
 | .CAB           | 9,415        | [Github](https://github.com/UniqueDomains/cab-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cab-oneword-domains&utm_content=table.link)           |
 | .CAFE          | 8,334        | [Github](https://github.com/UniqueDomains/cafe-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=cafe-oneword-domains&utm_content=table.link)          |
@@ -223,7 +223,7 @@ If you want to search & filters the complete database of [Travel one word domain
 | .DATING        | 9,317        | [Github](https://github.com/UniqueDomains/dating-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dating-oneword-domains&utm_content=table.link)        |
 | .DAY           | 9,317        | [Github](https://github.com/UniqueDomains/day-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=day-oneword-domains&utm_content=table.link)           |
 | .DE.COM        | 0            | [Github](https://github.com/UniqueDomains/de.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de.com-oneword-domains&utm_content=table.link)        |
-| .DE            | 2,838        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
+| .DE            | 2,837        | [Github](https://github.com/UniqueDomains/de-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=de-oneword-domains&utm_content=table.link)            |
 | .DEAL          | 7,532        | [Github](https://github.com/UniqueDomains/deal-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deal-oneword-domains&utm_content=table.link)          |
 | .DEALER        | 9,917        | [Github](https://github.com/UniqueDomains/dealer-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=dealer-oneword-domains&utm_content=table.link)        |
 | .DEALS         | 8,900        | [Github](https://github.com/UniqueDomains/deals-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=deals-oneword-domains&utm_content=table.link)         |
@@ -355,9 +355,9 @@ If you want to search & filters the complete database of [Travel one word domain
 | .INSURE        | 9,282        | [Github](https://github.com/UniqueDomains/insure-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=insure-oneword-domains&utm_content=table.link)        |
 | .INTERNATIONAL | 8,309        | [Github](https://github.com/UniqueDomains/international-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=international-oneword-domains&utm_content=table.link) |
 | .INVESTMENTS   | 9,334        | [Github](https://github.com/UniqueDomains/investments-oneword-domains)   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=investments-oneword-domains&utm_content=table.link)   |
-| .IO            | 54,616       | [Github](https://github.com/UniqueDomains/io-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
+| .IO            | 54,617       | [Github](https://github.com/UniqueDomains/io-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=io-oneword-domains&utm_content=table.link)            |
 | .IRISH         | 9,351        | [Github](https://github.com/UniqueDomains/irish-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=irish-oneword-domains&utm_content=table.link)         |
-| .IT            | 13,793       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
+| .IT            | 13,795       | [Github](https://github.com/UniqueDomains/it-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=it-oneword-domains&utm_content=table.link)            |
 | .JETZT         | 9,413        | [Github](https://github.com/UniqueDomains/jetzt-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jetzt-oneword-domains&utm_content=table.link)         |
 | .JEWELRY       | 9,570        | [Github](https://github.com/UniqueDomains/jewelry-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jewelry-oneword-domains&utm_content=table.link)       |
 | .JPN.COM       | 0            | [Github](https://github.com/UniqueDomains/jpn.com-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=jpn.com-oneword-domains&utm_content=table.link)       |
@@ -421,7 +421,7 @@ If you want to search & filters the complete database of [Travel one word domain
 | .MOV           | 9,820        | [Github](https://github.com/UniqueDomains/mov-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mov-oneword-domains&utm_content=table.link)           |
 | .MOVIE         | 9,546        | [Github](https://github.com/UniqueDomains/movie-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=movie-oneword-domains&utm_content=table.link)         |
 | .MUSIC         | 9,584        | [Github](https://github.com/UniqueDomains/music-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=music-oneword-domains&utm_content=table.link)         |
-| .MX            | 7,246        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
+| .MX            | 7,247        | [Github](https://github.com/UniqueDomains/mx-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=mx-oneword-domains&utm_content=table.link)            |
 | .MY            | 7,525        | [Github](https://github.com/UniqueDomains/my-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=my-oneword-domains&utm_content=table.link)            |
 | .NAGOYA        | 13           | [Github](https://github.com/UniqueDomains/nagoya-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=nagoya-oneword-domains&utm_content=table.link)        |
 | .NAME          | 8,084        | [Github](https://github.com/UniqueDomains/name-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=name-oneword-domains&utm_content=table.link)          |
@@ -515,7 +515,7 @@ If you want to search & filters the complete database of [Travel one word domain
 | .SERVICES      | 7,489        | [Github](https://github.com/UniqueDomains/services-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=services-oneword-domains&utm_content=table.link)      |
 | .SEX           | 0            | [Github](https://github.com/UniqueDomains/sex-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sex-oneword-domains&utm_content=table.link)           |
 | .SEXY          | 9,733        | [Github](https://github.com/UniqueDomains/sexy-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sexy-oneword-domains&utm_content=table.link)          |
-| .SH            | 7,645        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
+| .SH            | 7,640        | [Github](https://github.com/UniqueDomains/sh-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=sh-oneword-domains&utm_content=table.link)            |
 | .SHIKSHA       | 9,868        | [Github](https://github.com/UniqueDomains/shiksha-oneword-domains)       | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shiksha-oneword-domains&utm_content=table.link)       |
 | .SHOES         | 9,492        | [Github](https://github.com/UniqueDomains/shoes-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shoes-oneword-domains&utm_content=table.link)         |
 | .SHOP          | 463          | [Github](https://github.com/UniqueDomains/shop-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=shop-oneword-domains&utm_content=table.link)          |
@@ -584,10 +584,10 @@ If you want to search & filters the complete database of [Travel one word domain
 | .UNIVERSITY    | 9,092        | [Github](https://github.com/UniqueDomains/university-oneword-domains)    | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=university-oneword-domains&utm_content=table.link)    |
 | .UNO           | 9,573        | [Github](https://github.com/UniqueDomains/uno-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=uno-oneword-domains&utm_content=table.link)           |
 | .US.COM        | 0            | [Github](https://github.com/UniqueDomains/us.com-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us.com-oneword-domains&utm_content=table.link)        |
-| .US            | 55,595       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
+| .US            | 55,594       | [Github](https://github.com/UniqueDomains/us-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=us-oneword-domains&utm_content=table.link)            |
 | .VACATIONS     | 9,622        | [Github](https://github.com/UniqueDomains/vacations-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vacations-oneword-domains&utm_content=table.link)     |
 | .VANA          | 9,943        | [Github](https://github.com/UniqueDomains/vana-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vana-oneword-domains&utm_content=table.link)          |
-| .VC            | 7,236        | [Github](https://github.com/UniqueDomains/vc-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
+| .VC            | 7,235        | [Github](https://github.com/UniqueDomains/vc-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vc-oneword-domains&utm_content=table.link)            |
 | .VEGAS         | 9,037        | [Github](https://github.com/UniqueDomains/vegas-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vegas-oneword-domains&utm_content=table.link)         |
 | .VENTURES      | 8,126        | [Github](https://github.com/UniqueDomains/ventures-oneword-domains)      | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=ventures-oneword-domains&utm_content=table.link)      |
 | .VET           | 9,271        | [Github](https://github.com/UniqueDomains/vet-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=vet-oneword-domains&utm_content=table.link)           |
@@ -633,18 +633,18 @@ If you want to search & filters the complete database of [Travel one word domain
 | Arts               | 14,997       | [Github](https://github.com/UniqueDomains/Arts-oneword-domains)                   | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Arts-oneword-domains&utm_content=table.link)                   |
 | Automotive         | 21,013       | [Github](https://github.com/UniqueDomains/Automotive-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Automotive-oneword-domains&utm_content=table.link)             |
 | Aviation           | 24,220       | [Github](https://github.com/UniqueDomains/Aviation-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Aviation-oneword-domains&utm_content=table.link)               |
-| Banking            | 38,590       | [Github](https://github.com/UniqueDomains/Banking-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Banking-oneword-domains&utm_content=table.link)                |
+| Banking            | 38,591       | [Github](https://github.com/UniqueDomains/Banking-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Banking-oneword-domains&utm_content=table.link)                |
 | Business           | 23,576       | [Github](https://github.com/UniqueDomains/Business-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Business-oneword-domains&utm_content=table.link)               |
 | Construction       | 25,701       | [Github](https://github.com/UniqueDomains/Construction-oneword-domains)           | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Construction-oneword-domains&utm_content=table.link)           |
 | Education          | 19,262       | [Github](https://github.com/UniqueDomains/Education-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Education-oneword-domains&utm_content=table.link)              |
 | Energy             | 18,859       | [Github](https://github.com/UniqueDomains/Energy-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Energy-oneword-domains&utm_content=table.link)                 |
 | Engineering        | 24,295       | [Github](https://github.com/UniqueDomains/Engineering-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Engineering-oneword-domains&utm_content=table.link)            |
-| Entertainment      | 18,904       | [Github](https://github.com/UniqueDomains/Entertainment-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)          |
+| Entertainment      | 18,906       | [Github](https://github.com/UniqueDomains/Entertainment-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Entertainment-oneword-domains&utm_content=table.link)          |
 | Environment        | 23,544       | [Github](https://github.com/UniqueDomains/Environment-oneword-domains)            | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Environment-oneword-domains&utm_content=table.link)            |
 | Fashion            | 9,284        | [Github](https://github.com/UniqueDomains/Fashion-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Fashion-oneword-domains&utm_content=table.link)                |
 | Finance            | 34,048       | [Github](https://github.com/UniqueDomains/Finance-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Finance-oneword-domains&utm_content=table.link)                |
 | Food and Beverage  | 19,461       | [Github](https://github.com/UniqueDomains/Food%20and%20Beverage-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Food%20and%20Beverage-oneword-domains&utm_content=table.link)  |
-| General            | 37,060       | [Github](https://github.com/UniqueDomains/General-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=General-oneword-domains&utm_content=table.link)                |
+| General            | 37,061       | [Github](https://github.com/UniqueDomains/General-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=General-oneword-domains&utm_content=table.link)                |
 | Geography          | 16,960       | [Github](https://github.com/UniqueDomains/Geography-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Geography-oneword-domains&utm_content=table.link)              |
 | Health and Fitness | 26,334       | [Github](https://github.com/UniqueDomains/Health%20and%20Fitness-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Health%20and%20Fitness-oneword-domains&utm_content=table.link) |
 | Healthcare         | 25,974       | [Github](https://github.com/UniqueDomains/Healthcare-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Healthcare-oneword-domains&utm_content=table.link)             |
@@ -659,23 +659,23 @@ If you want to search & filters the complete database of [Travel one word domain
 | Military           | 19,383       | [Github](https://github.com/UniqueDomains/Military-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Military-oneword-domains&utm_content=table.link)               |
 | Mining             | 15,517       | [Github](https://github.com/UniqueDomains/Mining-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Mining-oneword-domains&utm_content=table.link)                 |
 | Pharmaceuticals    | 10,450       | [Github](https://github.com/UniqueDomains/Pharmaceuticals-oneword-domains)        | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Pharmaceuticals-oneword-domains&utm_content=table.link)        |
-| Politics           | 40,136       | [Github](https://github.com/UniqueDomains/Politics-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Politics-oneword-domains&utm_content=table.link)               |
+| Politics           | 40,137       | [Github](https://github.com/UniqueDomains/Politics-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Politics-oneword-domains&utm_content=table.link)               |
 | Real Estate        | 20,747       | [Github](https://github.com/UniqueDomains/Real%20Estate-oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Real%20Estate-oneword-domains&utm_content=table.link)          |
 | Religion           | 19,727       | [Github](https://github.com/UniqueDomains/Religion-oneword-domains)               | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Religion-oneword-domains&utm_content=table.link)               |
-| Retail             | 26,981       | [Github](https://github.com/UniqueDomains/Retail-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Retail-oneword-domains&utm_content=table.link)                 |
+| Retail             | 26,982       | [Github](https://github.com/UniqueDomains/Retail-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Retail-oneword-domains&utm_content=table.link)                 |
 | Science            | 14,513       | [Github](https://github.com/UniqueDomains/Science-oneword-domains)                | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Science-oneword-domains&utm_content=table.link)                |
-| Sports             | 15,804       | [Github](https://github.com/UniqueDomains/Sports-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Sports-oneword-domains&utm_content=table.link)                 |
+| Sports             | 15,805       | [Github](https://github.com/UniqueDomains/Sports-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Sports-oneword-domains&utm_content=table.link)                 |
 | Technology         | 24,401       | [Github](https://github.com/UniqueDomains/Technology-oneword-domains)             | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Technology-oneword-domains&utm_content=table.link)             |
 | Telecommunications | 29,047       | [Github](https://github.com/UniqueDomains/Telecommunications-oneword-domains)     | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Telecommunications-oneword-domains&utm_content=table.link)     |
 | Transportation     | 20,535       | [Github](https://github.com/UniqueDomains/Transportation-oneword-domains)         | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Transportation-oneword-domains&utm_content=table.link)         |
 | Travel             | 24,290       | [Github](https://github.com/UniqueDomains/Travel-oneword-domains)                 | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=table.link)                 |
 | Utilities          | 19,860       | [Github](https://github.com/UniqueDomains/Utilities-oneword-domains)              | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=Utilities-oneword-domains&utm_content=table.link)              |
 
-# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.bottom)
+# All One Word Domains are on [unique.domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.bottom)
 
 Access the most complete and advanced database of one word domains.
 
 Spot short, memorable domain names that earn trust, dominate search engines, and appreciate over time.
 
-[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/Travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=Travel-oneword-domains&utm_content=description.image)
+[![Access the only remaining good domain names, before your competitors.](https://github.com/UniqueDomains/travel-oneword-domains/blob/main/unique.domains.jpg?raw=true)](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=travel-oneword-domains&utm_content=description.image)
         
