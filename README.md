@@ -76,7 +76,7 @@ print(df.head())
 | strategy.travel | available | $186.98   | —             | 74             | 43     | 8      | namecheap         |
 | ant.travel      | resell    | —         | —             | 86             | 60     | 3      | Dynadot Inc       |
 | audible.travel  | premium   | —         | —             | 112            | 98     | 7      | —                 |
-| mark.travel     | available | $39.99    | $189.99       | 66             | 42     | 4      | name.com          |
+| mark.travel     | available | $39.99    | $189.99       | 66             | 41     | 4      | name.com          |
 | the.travel      | resell    | —         | —             | 98             | 58     | 3      | Dynadot Inc       |
 | punk.travel     | premium   | —         | —             | 102            | 98     | 4      | —                 |
 | skill.travel    | available | $39.99    | —             | 88             | 40     | 5      | name.com          |
