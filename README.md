@@ -1,10 +1,10 @@
-# Available .TRAVEL One-Word Domains (11,432)
+# Available .TRAVEL One-Word Domains (11,431)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C432%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C431%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .travel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,432 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,431 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,432 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,431 domains · **Median ask:** $49.45 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-03  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/travel`  
 **Best for:** founders, investors, studios
 
@@ -64,26 +64,26 @@ print(df.head())
 
 | domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| finals.travel       | available | $39.99    | —             | 80             | 7      | 6      | name.com          |
+| barup.travel        | available | $39.99    | —             | 82             | 2      | 6      | name.com          |
+| getup.travel        | available | $39.99    | —             | 82             | 14     | 6      | name.com          |
+| matcha.travel       | available | $39.99    | —             | 86             | 39     | 6      | name.com          |
+| Apples.travel       | available | $186.98   | —             | 90             | 16     | 6      | namecheap         |
+| useit.travel        | available | $39.99    | —             | 94             | 7      | 6      | name.com          |
+| dogsit.travel       | available | $39.99    | —             | 96             | 2      | 6      | name.com          |
+| hangon.travel       | available | $39.99    | —             | 82             | 6      | 7      | name.com          |
+| pierogi.travel      | available | $39.99    | —             | 82             | 7      | 7      | name.com          |
+| watches.travel      | available | $39.99    | —             | 84             | 19     | 7      | name.com          |
+| messages.travel     | available | $39.99    | —             | 80             | 16     | 8      | name.com          |
+| presents.travel     | available | $39.99    | —             | 80             | 9      | 8      | name.com          |
 | shortcuts.travel    | available | $39.99    | —             | 48             | 41     | 10     | name.com          |
 | every.travel        | resell    | —         | —             | 82             | 46     | 5      | NameCheap, Inc.   |
-| matcha.travel       | available | $39.99    | —             | 86             | 39     | 6      | name.com          |
-| axis.travel         | resell    | —         | —             | 68             | 44     | 4      | Sav.com, LLC - 13 |
+| axis.travel         | resell    | —         | —             | 68             | 43     | 4      | Sav.com, LLC - 13 |
 | neuroscience.travel | available | $39.99    | —             | 80             | 37     | 12     | name.com          |
 | jobs.travel         | resell    | —         | —             | 79             | 42     | 4      | Dynadot Inc       |
 | slots.travel        | available | $39.99    | —             | 49             | 31     | 5      | name.com          |
 | fund.travel         | resell    | —         | —             | 78             | 31     | 4      | Sav.com, LLC - 33 |
 | commonground.travel | available | $39.99    | —             | 74             | 28     | 13     | name.com          |
-| videos.travel       | resell    | —         | —             | 52             | 30     | 6      | GoDaddy.com, LLC  |
-| forms.travel        | available | $39.99    | —             | 54             | 28     | 5      | name.com          |
-| coupons.travel      | resell    | —         | —             | 52             | 24     | 7      | GoDaddy.com, LLC  |
-| KFC.travel          | available | $186.98   | —             | 74             | 27     | 3      | namecheap         |
-| systems.travel      | available | $39.99    | —             | 46             | 27     | 7      | name.com          |
-| traders.travel      | available | $39.99    | —             | 60             | 26     | 7      | name.com          |
-| pops.travel         | available | $39.99    | —             | 74             | 24     | 4      | name.com          |
-| whats.travel        | available | $39.99    | —             | 58             | 24     | 5      | name.com          |
-| rekt.travel         | available | $39.99    | —             | 40             | 24     | 4      | name.com          |
-| signs.travel        | available | $39.99    | —             | 64             | 22     | 5      | name.com          |
-| results.travel      | available | $39.99    | —             | 59             | 22     | 7      | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,432 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,431 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This selection is made up of one-word .travel domains. That makes it useful for buyers who want a niche extension tied directly to travel, hospitality, booking, destinations, or adjacent brands. The median ask is $49.45, so price is a practical first filter, but not the only one. When comparing these domains, check whether the word is easy to say, easy to spell, and commercially flexible enough to support more than one business model. Names like movies.travel or matcha.travel are memorable, while names such as Trex.travel may require more caution if a term could overlap with an existing brand.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Prefer words that are easy to say, spell, and recall
+- Use price first: median ask across this set is $49.45
+- Check if the word fits travel use without forcing meaning
+- Be careful with coined or branded terms like Trex.travel
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-05-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
