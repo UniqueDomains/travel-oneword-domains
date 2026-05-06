@@ -82,7 +82,7 @@ print(df.head())
 | neuroscience.travel | available | $39.99    | —             | 80             | 37     | 12     | name.com          |
 | jobs.travel         | resell    | —         | —             | 79             | 42     | 4      | Dynadot Inc       |
 | slots.travel        | available | $39.99    | —             | 49             | 31     | 5      | name.com          |
-| fund.travel         | resell    | —         | —             | 78             | 31     | 4      | Sav.com, LLC - 33 |
+| fund.travel         | resell    | —         | —             | 78             | 30     | 4      | Sav.com, LLC - 33 |
 | commonground.travel | available | $39.99    | —             | 74             | 28     | 13     | name.com          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
