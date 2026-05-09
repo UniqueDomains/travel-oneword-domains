@@ -1,29 +1,29 @@
-# Available .TRAVEL One-Word Domains (11,433)
+# Travel Keyword Domains (26,990)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C433%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C990%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .travel one-word domains from Unique Domains.
+This selection contains 26,949 domain names tied to the keyword travel, spanning 505 TLDs. Updated daily. The median ask is 3,100, so comparisons should focus on extension quality, renewal fit, and whether the wording is clear, credible, and easy to defend.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,433 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **26,990 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,433 domains · **Median ask:** $49.45 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 26,990 domains · **Median ask:** $3,106.22 · **High-demand under $2,500:** 0
 
 **Last updated:** 2026-05-09  
-**Canonical page:** `https://unique.domains/domains/tld/travel`  
+**Canonical page:** `https://unique.domains/domains/sector/Travel`  
 **Best for:** founders, investors, studios
 
 ---
 
 <p align="center">
-  <a href="https://unique.domains/domains/tld/travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
+  <a href="https://unique.domains/domains/sector/Travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_open_search"><b>🗂️ Open live database</b></a> ·
   <b>⬇️ Download sample</b>: <a href="./travel.csv">CSV</a> / <a href="./travel.json">JSON</a>
   · <a href="https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_methodology"><b>🧪 Methodology</b></a>
   · <a href="https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_api_docs"><b>🧰 API docs</b></a>
@@ -31,15 +31,15 @@ Daily-updated public extract of available and resale .travel one-word domains fr
 
 ---
 
-➡️ **Investors:** [Create a Radar from this .TRAVEL search](https://unique.domains/domains/tld/travel?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_create_radar)  
-➡️ **Founders:** [Start a Project from this .TRAVEL search](https://unique.domains/domains/tld/travel?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_start_project)  
+➡️ **Investors:** [Create a Radar from this exact search](https://unique.domains/domains/sector/Travel?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_create_radar)  
+➡️ **Founders:** [Start a Project from this exact search](https://unique.domains/domains/sector/Travel?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_start_project)  
 ➡️ **Builders:** [Connect to our API](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_api_docs)
 
 ---
 
 ## 📦 What this repository contains
 
-This repository is the public extract for Unique Domains' .TRAVEL one-word domain catalog.
+This repository is the public extract for the exact Unique Domains search represented by `https://unique.domains/domains/sector/Travel`.
 
 ### Files
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| finals.travel       | available | $39.99    | —             | 80             | 7      | 6      | name.com          |
-| barup.travel        | available | $39.99    | —             | 82             | 2      | 6      | name.com          |
-| getup.travel        | available | $39.99    | —             | 82             | 14     | 6      | name.com          |
-| matcha.travel       | available | $39.99    | —             | 86             | 39     | 6      | name.com          |
-| Apples.travel       | available | $186.98   | —             | 90             | 16     | 6      | namecheap         |
-| useit.travel        | available | $39.99    | —             | 94             | 7      | 6      | name.com          |
-| dogsit.travel       | available | $39.99    | —             | 96             | 2      | 6      | name.com          |
-| hangon.travel       | available | $39.99    | —             | 82             | 6      | 7      | name.com          |
-| pierogi.travel      | available | $39.99    | —             | 82             | 7      | 7      | name.com          |
-| watches.travel      | available | $39.99    | —             | 84             | 19     | 7      | name.com          |
-| messages.travel     | available | $39.99    | —             | 80             | 16     | 8      | name.com          |
-| presents.travel     | available | $39.99    | —             | 80             | 9      | 8      | name.com          |
-| shortcuts.travel    | available | $39.99    | —             | 48             | 41     | 10     | name.com          |
-| every.travel        | resell    | —         | —             | 82             | 46     | 5      | NameCheap, Inc.   |
-| axis.travel         | resell    | —         | —             | 68             | 43     | 4      | Sav.com, LLC - 13 |
-| neuroscience.travel | available | $39.99    | —             | 80             | 37     | 12     | name.com          |
-| jobs.travel         | resell    | —         | —             | 79             | 42     | 4      | Dynadot Inc       |
-| slots.travel        | available | $39.99    | —             | 49             | 31     | 5      | name.com          |
-| fund.travel         | resell    | —         | —             | 78             | 30     | 4      | Sav.com, LLC - 33 |
-| commonground.travel | available | $39.99    | —             | 74             | 28     | 13     | name.com          |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| travel.vana       | available | $2,498    | —             | 115            | 50     | 6      | namecheap                                                 |
+| trip.onl          | resell    | $28.98    | —             | 110            | 36     | 4      | Dynadot Inc                                               |
+| travel.zip        | premium   | $1,298.70 | $1,298.70     | 115            | 50     | 6      | namecheap                                                 |
+| travel.theatre    | available | $620      | —             | 115            | 50     | 6      | namecheap                                                 |
+| trip.farm         | resell    | $49.98    | —             | 110            | 36     | 4      | Spaceship, Inc.                                           |
+| travel.you        | premium   | $650      | $650          | 115            | 50     | 6      | namecheap                                                 |
+| travel.storage    | available | $858      | —             | 115            | 50     | 6      | namecheap                                                 |
+| tourism.zone      | resell    | —         | —             | 70             | 88     | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| travel.xyz        | premium   | $13,000   | $13,000       | 115            | 50     | 6      | namecheap                                                 |
+| travel.shiksha    | available | $69.98    | —             | 115            | 50     | 6      | namecheap                                                 |
+| tourism.pro       | resell    | —         | —             | 70             | 88     | 7      | EnCirca, Inc.                                             |
+| travel.wedding    | premium   | $2,600    | $31.20        | 115            | 50     | 6      | namecheap                                                 |
+| travel.security   | available | $2,950    | —             | 115            | 50     | 6      | namecheap                                                 |
+| tourism.me        | resell    | —         | —             | 70             | 88     | 7      | Spaceship, Inc.                                           |
+| travel.website    | premium   | $6,500    | $13,000       | 115            | 50     | 6      | namecheap                                                 |
+| travel.republican | available | $43.98    | —             | 115            | 50     | 6      | namecheap                                                 |
+| tourism.it        | resell    | —         | —             | 70             | 88     | 7      | —                                                         |
+| travel.webcam     | premium   | $3,250    | $130          | 115            | 50     | 6      | namecheap                                                 |
+| travel.protection | available | $2,950    | —             | 115            | 50     | 6      | namecheap                                                 |
+| tourism.com       | resell    | —         | —             | 70             | 88     | 7      | Tucows Domains Inc.                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,433 live domains                        |
+| 1,000-row public sample | 26,990 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -101,7 +101,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
-[Create Radar](https://unique.domains/domains/tld/travel?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/tld/travel?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=related_pricing)
+[Create Radar](https://unique.domains/domains/sector/Travel?github_intent=radar&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_create_radar) · [Start Project](https://unique.domains/domains/sector/Travel?github_intent=project&utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_start_project) · [See pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=related_pricing)
 
 ## 🧱 Field summary
 
@@ -120,12 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is made up of one-word .travel domains. That makes it useful for buyers who want a niche extension tied directly to travel, hospitality, booking, destinations, or adjacent brands. The median ask is $49.45, so price is a practical first filter, but not the only one. When comparing these domains, check whether the word is easy to say, easy to spell, and commercially flexible enough to support more than one business model. Names like movies.travel or matcha.travel are memorable, while names such as Trex.travel may require more caution if a term could overlap with an existing brand.
+This set is broad by design: travel keyword domains spread across 505 extensions, with examples such as flight.insure, destination.ac, destination.apartments, and air.realty. That breadth creates very different quality tiers. When comparing these domains, start with exact commercial relevance between the word and the TLD, then weigh asking price against memorability and likely renewal burden. A name like flight.insure has a tighter keyword-to-extension match than a travel term placed on a less intuitive ending. For buyers building a shortlist, clarity and trust matter most. For investors, extension credibility and entry price discipline matter most.
 
-- Prefer words that are easy to say, spell, and recall
-- Use price first: median ask across this set is $49.45
-- Check if the word fits travel use without forcing meaning
-- Be careful with coined or branded terms like Trex.travel
+- Prioritize strong keyword-to-TLD fit, like flight.insure
+- Check if the extension adds trust or creates friction
+- Use the 3,100 median ask as a pricing reference point
+- Favor clear, memorable terms over novelty endings
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,14 +142,14 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Travel Keyword Domains*. Version 2026-05-09. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
 
 ## 🔗 Related links
 
-- [Live .TRAVEL page](https://unique.domains/domains/tld/travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_open_search)
+- [Live search](https://unique.domains/domains/sector/Travel?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_open_search)
 - [Technology and scoring](https://unique.domains/technology?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_methodology)
 - [Pricing](https://unique.domains/pricing?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=related_pricing)
 - [API docs](https://unique.domains/api?utm_source=github&utm_medium=referral&utm_campaign=repo_travel_oneword_domains&utm_content=top_api_docs)
