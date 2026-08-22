@@ -1,10 +1,10 @@
-# Available .TRAVEL One-Word Domains (16,805)
+# Available .TRAVEL One-Word Domains (17,233)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C805%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C233%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .travel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,805 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,233 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,805 domains · **Median ask:** $33.67 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 17,233 domains · **Median ask:** $33.43 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| ash.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| now.travel    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| Ava.travel    | available | $39.99    | —             | high           | medium | 3      | name.com         |
-| asia.travel   | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
-| axe.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| card.travel   | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc      |
-| bow.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| deep.travel   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
-| boy.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| gray.travel   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
-| clv.travel    | available | $23.98    | $186.98       | low            | low    | 3      | namecheap        |
-| sale.travel   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| cod.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| earth.travel  | resell    | —         | —             | medium         | medium | 5      | Edomains LLC     |
-| dig.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| Women.travel  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc      |
-| DJI.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| around.travel | resell    | —         | —             | high           | low    | 6      | Dynadot Inc      |
-| due.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| people.travel | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| half.travel    | available | $39.99    | —             | high           | low    | 4      | name.com         |
+| content.travel | available | $39.99    | $189.99       | high           | low    | 7      | name.com         |
+| ash.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| now.travel     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| Ava.travel     | available | $39.99    | —             | high           | medium | 3      | name.com         |
+| asia.travel    | resell    | —         | —             | high           | low    | 4      | Dynadot Inc      |
+| axe.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| card.travel    | resell    | —         | —             | medium         | medium | 4      | Dynadot Inc      |
+| bow.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| deep.travel    | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| boy.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| gray.travel    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| clv.travel     | available | $23.98    | $186.98       | low            | low    | 3      | namecheap        |
+| sale.travel    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| cod.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| earth.travel   | resell    | —         | —             | medium         | medium | 5      | Edomains LLC     |
+| dig.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| Women.travel   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc      |
+| DJI.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| around.travel  | resell    | —         | —             | high           | low    | 6      | Dynadot Inc      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,805 live domains                        |
+| 1,000-row public sample | 17,233 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
