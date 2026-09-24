@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .travel one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,922 domains · **Median ask:** $28.57 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| half.travel    | available | $39.99    | —             | high           | low    | 4      | name.com         |
-| nothing.travel | available | $39.99    | —             | high           | low    | 7      | name.com         |
-| what.travel    | available | $39.99    | —             | high           | low    | 4      | name.com         |
-| ash.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| domain.travel  | resell    | $39.99    | —             | medium         | low    | 6      | name.com         |
-| ava.travel     | available | $39.99    | —             | high           | medium | 3      | name.com         |
-| now.travel     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
-| axe.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| game.travel    | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
-| bow.travel     | available | $27.99    | $149.99       | medium         | low    | 3      | namesilo         |
-| gray.travel    | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
-| boy.travel     | available | $39.99    | —             | medium         | low    | 3      | name.com         |
-| love.travel    | resell    | —         | —             | medium         | low    | 4      | 1API GmbH        |
-| clv.travel     | available | $23.98    | $186.98       | low            | low    | 3      | namecheap        |
-| sale.travel    | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
-| cod.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| earth.travel   | resell    | —         | —             | medium         | medium | 5      | Edomains LLC     |
-| dig.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
-| women.travel   | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc      |
-| dji.travel     | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| ash.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| domain.travel | resell    | $39.99    | —             | medium         | low    | 6      | name.com         |
+| ava.travel    | available | $39.99    | —             | high           | medium | 3      | name.com         |
+| now.travel    | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC |
+| axe.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| game.travel   | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc      |
+| bow.travel    | available | $27.99    | $149.99       | medium         | low    | 3      | namesilo         |
+| gray.travel   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
+| boy.travel    | available | $39.99    | —             | medium         | low    | 3      | name.com         |
+| love.travel   | resell    | —         | —             | medium         | low    | 4      | 1API GmbH        |
+| clv.travel    | available | $23.98    | $186.98       | low            | low    | 3      | namecheap        |
+| sale.travel   | resell    | —         | —             | high           | low    | 4      | Porkbun LLC      |
+| cod.travel    | available | $27.99    | $149.99       | low            | low    | 3      | namesilo         |
+| earth.travel  | resell    | —         | —             | medium         | medium | 5      | Edomains LLC     |
+| dig.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| women.travel  | resell    | —         | —             | medium         | low    | 5      | Dynadot Inc      |
+| dji.travel    | available | $39.99    | —             | high           | low    | 3      | name.com         |
+| people.travel | resell    | —         | —             | high           | medium | 6      | Dynadot Inc      |
+| due.travel    | available | $27.99    | $149.99       | low            | low    | 3      | namesilo         |
+| trader.travel | resell    | —         | —             | high           | low    | 6      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
