@@ -1,10 +1,10 @@
-# Available .TRAVEL One-Word Domains (26,294)
+# Available .TRAVEL One-Word Domains (28,378)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-26%2C294%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-28%2C378%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .travel one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **26,294 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **28,378 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 26,294 domains · **Median ask:** $31.37 · **High-demand under $2,500:** 3
+**Public extract:** 1,000 rows · **Live catalog:** 28,378 domains · **Median ask:** $32.46 · **High-demand under $2,500:** 3
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/travel`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| journal.travel    | available | $23.98    | $186.98       | high           | low    | 7      | namecheap                                                 |
-| fancy.travel      | available | $23.98    | $186.98       | high           | low    | 5      | namecheap                                                 |
-| tourist.travel    | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
-| donut.travel      | available | $115.20   | $115.20       | high           | low    | 5      | cloudflare                                                |
-| dozen.travel      | available | $27.99    | $149.99       | high           | low    | 5      | namesilo                                                  |
-| convenient.travel | available | $27.99    | $149.99       | high           | low    | 10     | namesilo                                                  |
-| burn.travel       | available | $29.99    | $249.99       | high           | low    | 4      | godaddy                                                   |
-| chimney.travel    | available | $27.99    | $149.99       | high           | low    | 7      | namesilo                                                  |
-| biological.travel | available | $23.98    | $186.98       | high           | low    | 10     | namecheap                                                 |
-| infant.travel     | available | $27.99    | $149.99       | high           | low    | 6      | namesilo                                                  |
-| hanukkah.travel   | available | $16.27    | $123.27       | high           | low    | 8      | dynadot                                                   |
-| artificial.travel | available | $27.99    | $149.99       | high           | low    | 10     | namesilo                                                  |
-| supporting.travel | available | $115.20   | $115.20       | high           | low    | 10     | cloudflare                                                |
-| funfair.travel    | available | $27.99    | $149.99       | high           | low    | 7      | namesilo                                                  |
-| device.travel     | available | $15.96    | $118.95       | high           | low    | 6      | porkbun                                                   |
-| palace.travel     | available | $27.99    | $149.99       | high           | low    | 6      | namesilo                                                  |
-| pony.travel       | available | $16.27    | $123.27       | high           | low    | 4      | dynadot                                                   |
-| sensor.travel     | available | $27.99    | $149.99       | high           | low    | 6      | namesilo                                                  |
-| dime.travel       | available | $27.99    | $149.99       | high           | low    | 4      | namesilo                                                  |
-| liquor.travel     | available | $115.20   | $115.20       | high           | low    | 6      | cloudflare                                                |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| fancy.travel       | available | $23.98    | $186.98       | high           | low    | 5      | namecheap                                                 |
+| tourist.travel     | resell    | —         | —             | high           | low    | 7      | Global Domains International, Inc. DBA DomainCostClub.com |
+| artificial.travel  | available | $27.99    | $149.99       | high           | low    | 10     | namesilo                                                  |
+| device.travel      | available | $23.98    | $186.98       | high           | low    | 6      | namecheap                                                 |
+| pony.travel        | available | $16.27    | $123.27       | high           | low    | 4      | dynadot                                                   |
+| renovation.travel  | available | $115.20   | $115.20       | high           | low    | 10     | cloudflare                                                |
+| seeing.travel      | available | $115.20   | $115.20       | high           | low    | 6      | cloudflare                                                |
+| upc.travel         | available | $27.99    | $149.99       | high           | low    | 3      | namesilo                                                  |
+| landing.travel     | available | $115.20   | $115.20       | high           | low    | 7      | cloudflare                                                |
+| informal.travel    | available | $27.99    | $149.99       | high           | low    | 8      | namesilo                                                  |
+| adult.travel       | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC                                          |
+| jacket.travel      | available | $16.27    | $123.27       | high           | low    | 6      | dynadot                                                   |
+| weave.travel       | available | $115.20   | $115.20       | high           | low    | 5      | cloudflare                                                |
+| compliant.travel   | available | $27.99    | $149.99       | high           | low    | 9      | namesilo                                                  |
+| returning.travel   | available | $15.96    | $118.95       | high           | low    | 9      | porkbun                                                   |
+| certificate.travel | available | $115.20   | $115.20       | high           | low    | 11     | cloudflare                                                |
+| composite.travel   | available | $23.98    | $186.98       | high           | low    | 9      | namecheap                                                 |
+| slip.travel        | available | $115.20   | $115.20       | high           | low    | 4      | cloudflare                                                |
+| passionate.travel  | available | $27.99    | $149.99       | high           | low    | 10     | namesilo                                                  |
+| kept.travel        | available | $27.99    | $149.99       | high           | low    | 4      | namesilo                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 26,294 live domains                        |
+| 1,000-row public sample | 28,378 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 3 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .TRAVEL One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
